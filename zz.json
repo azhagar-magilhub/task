@@ -1,0 +1,321 @@
+  noodleJson [
+    {
+        "Brand": "MAMA",
+        "Country": "Myanmar",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2016 #10",
+        "Variety": "Instant Noodles Coconut Milk Flavour"
+    },
+    {
+        "Brand": "Prima Taste",
+        "Country": "Singapore",
+        "Stars": 5,
+        "Style": "Nan",
+        "Top Ten": "2016 #1",
+        "Variety": "Singapore Laksa Wholegrain La Mian"
+    },
+    {
+        "Brand": "Prima",
+        "Country": "SG",
+        "Stars": "NaN",
+        "Style": "Pack",
+        "Top Ten": "2016 #8",
+        "Variety": "Juzz's Mee Creamy Chicken Flavour"
+    },
+    {
+        "Brand": "Prima Taste",
+        "Country": "Singapore",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2016 #5",
+        "Variety": "Singapore Curry Wholegrain La Mian"
+    },
+    {
+        "Brand": "Tseng Noodles",
+        "Country": "Taiwan",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2016 #9",
+        "Variety": "Scallion With Sichuan Pepper  Flavor"
+    },
+    {
+        "Brand": "Wugudaochang",
+        "Country": "China",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2016 #7",
+        "Variety": "Tomato Beef Brisket Flavor Purple Potato Noodle"
+    },
+    {
+        "Brand": "A-Sha Dry Noodle",
+        "Country": "Taiwan",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "NaN",
+        "Variety": "Veggie Noodle Tomato Noodle With Vine Ripened Tomato Sauce"
+    },
+    {
+        "Brand": "MyKuali",
+        "Country": "Malaysia",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "NaN",
+        "Variety": "Penang Hokkien Prawn Noodle (New Improved Taste)"
+    },
+    {
+        "Brand": "CarJEN",
+        "Country": "Malaysia",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2015 #4",
+        "Variety": "Nyonya Curry Laksa"
+    },
+    {
+        "Brand": "Maruchan",
+        "Country": "JPN",
+        "Stars": 5,
+        "Style": "Tray",
+        "Top Ten": "2015 #9",
+        "Variety": "Gotsumori Sauce Yakisoba"
+    },
+    {
+        "Brand": "Mamee",
+        "Country": "Malaysia",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2015 #6",
+        "Variety": "Chef Gold Recipe Mi Kari Seribu Rasa"
+    },
+    {
+        "Brand": "MyKuali",
+        "Country": "Malaysia",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2015 #1",
+        "Variety": "Penang Red Tom Yum Goong Noodle"
+    },
+    {
+        "Brand": "Mama",
+        "Country": "Thailand",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2013 #10",
+        "Variety": "Instant Noodles Shrimp Creamy Tom Yum Flavour Jumbo Pack"
+    },
+    {
+        "Brand": "Mama",
+        "Country": "Thailand",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2015 #8",
+        "Variety": "Oriental Style Instant Noodles Green Curry Flavour Jumbo Pack"
+    },
+    {
+        "Brand": "Mamee",
+        "Country": "Malaysia",
+        "Stars": "NaN",
+        "Style": "Pack",
+        "Top Ten": "2014 #7",
+        "Variety": "Chef Curry Laksa Flavour"
+    },
+    {
+        "Brand": "Sapporo Ichiban",
+        "Country": "Japan",
+        "Stars": "NaN",
+        "Style": "Tray",
+        "Top Ten": "2014 #4",
+        "Variety": "Otafuku Okonomi Sauce Yakisoba"
+    },
+    {
+        "Brand": "Nongshim",
+        "Country": "South Korea",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2014 #9",
+        "Variety": "Soon Veggie Noodle Soup"
+    },
+    {
+        "Brand": "Mama",
+        "Country": "Thailand",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2014 #10",
+        "Variety": "Instant Noodles Yentafo Tom Yum Mohfai Flavour"
+    },
+    {
+        "Brand": "Prima Taste",
+        "Country": "Singapore",
+        "Stars": 5,
+        "Style": "NaN",
+        "Top Ten": "NaN",
+        "Variety": "Singapore Chilli Crab La Mian"
+    },
+    {
+        "Brand": "Samyang Foods",
+        "Country": "South Korea",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2014 #5",
+        "Variety": "Maesaengyitangmyun Baked Noodle"
+    },
+    {
+        "Brand": "Paldo",
+        "Country": "South Korea",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2014 #6",
+        "Variety": "Cheese Noodle"
+    },
+    {
+        "Brand": "MyKuali",
+        "Country": "Malaysia",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2014 #1",
+        "Variety": "Penang White Curry Noodle"
+    },
+    {
+        "Brand": "Prima Taste",
+        "Country": "SG",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2013 #1",
+        "Variety": "Singapore Laksa La Mian"
+    },
+    {
+        "Brand": "Prima Taste",
+        "Country": "Singapore",
+        "Stars": "NaN",
+        "Style": "Pack",
+        "Top Ten": "2013 #2",
+        "Variety": "Singapore Curry La Mian"
+    },
+    {
+        "Brand": "Nongshim",
+        "Country": "USA",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2013 #4",
+        "Variety": "Jinjja Jinjja Flamin' Hot & Nutty"
+    },
+    {
+        "Brand": "Paldo",
+        "Country": "South Korea",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2013 #9",
+        "Variety": "Kokomen Spicy Chicken"
+    },
+    {
+        "Brand": "Indomie",
+        "Country": "Indonesia",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2013 #3",
+        "Variety": "Mi Goreng Rendang (Import)"
+    },
+    {
+        "Brand": "Koka",
+        "Country": "SG",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "NaN",
+        "Variety": "Spicy Black Pepper"
+    },
+    {
+        "Brand": "Nongshim",
+        "Country": "South Korea",
+        "Stars": 4.75,
+        "Style": "Pack",
+        "Top Ten": "2012 #7",
+        "Variety": "Shin Ramyun Black"
+    },
+    {
+        "Brand": "Mi Sedaap",
+        "Country": "Indonesia",
+        "Stars": 4.5,
+        "Style": "Pack",
+        "Top Ten": "2012 #5",
+        "Variety": "Kari Spesial"
+    },
+    {
+        "Brand": "Nissin",
+        "Country": "Japan",
+        "Stars": 5,
+        "Style": "Tray",
+        "Top Ten": "2012 #3",
+        "Variety": "Yakisoba Noodles Karashi"
+    },
+    {
+        "Brand": "Myojo",
+        "Country": "JPN",
+        "Stars": 4.25,
+        "Style": "Pack",
+        "Top Ten": "2012 #6",
+        "Variety": "Hyoubanya No Chukasoba Oriental"
+    },
+    {
+        "Brand": "Doll",
+        "Country": "Hong Kong",
+        "Stars": 4.5,
+        "Style": "Pack",
+        "Top Ten": "2012 #9",
+        "Variety": "Artificial Chicken"
+    },
+    {
+        "Brand": "Indomie",
+        "Country": "Indonesia",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2012 #1",
+        "Variety": "Special Fried Curly Noodle"
+    },
+    {
+        "Brand": "Indomie",
+        "Country": "Indonesia",
+        "Stars": "NaN",
+        "Style": "Pack",
+        "Top Ten": "2012 #2",
+        "Variety": "Mi Goreng Jumbo Barbecue Chicken"
+    },
+    {
+        "Brand": "Myojo",
+        "Country": "Japan",
+        "Stars": 4,
+        "Style": "Tray",
+        "Top Ten": "2013 #6",
+        "Variety": "Ippeichan Yakisoba"
+    },
+    {
+        "Brand": "Sapporo Ichiban",
+        "Country": "JPN",
+        "Stars": 5,
+        "Style": "Pack",
+        "Top Ten": "2012 #4",
+        "Variety": "Chow Mein"
+    }
+]
+ LOG  noodleImageJson [
+    {
+        "Image": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/indexee3e8a8.jpeg"
+    },
+    {
+        "Image": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/images135ea53.jpeg"
+    },
+    {
+        "Image": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/garlic-noodles-61-700x6802c7f765.jpeg"
+    },
+    {
+        "Image": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/Hakka-Noodles-2-34755e38.jpeg"
+    },
+    {
+        "Image": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/1200px-Mama_instant_noodle_block625f483.jpeg"
+    },
+    {
+        "Image": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/20190530-ramen-noodles-vicky-wasik-76-1500x11257be7d5b.jpeg"
+    },
+    {
+        "Image": "https://s3-ap-southeast-1.amazonaws.com/he-public-data/200702_Hand-Pulled-Noodles_55099856b5.jpeg"
+    }
+]
